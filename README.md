@@ -2,8 +2,7 @@
 
 - [Misc](#misc)
   - [API](#api)
-- [Data Structure](#data-structure)
-  - [Array](#array)
+- [React](#react)
 
 ## Misc
 
@@ -11,8 +10,7 @@
 
 * [13 REST API interview questions you need to know](https://www.educative.io/blog/rest-api-interview-questions)
 
-## Data Structure
+## React
 
-### Array
+* [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
 
-*
