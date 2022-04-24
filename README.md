@@ -1,16 +1,13 @@
-### Table of Contents
-
+# Table of Contents
+- [React](#react)
+- [Data Structure and Algorithm](#data-structure-and-algorithm)
+- [Python](#python)
+- [Coding Platform](#coding-platform)
 - [Misc](#misc)
   - [API](#api)
-- [Data Structure and Algorithm](#dsa)
-- [React](#react)
+  - [Cheatsheet](#cheatsheet)
 
 
-## Misc
-
-### API
-
-* [13 REST API interview questions you need to know](https://www.educative.io/blog/rest-api-interview-questions)
 
 ## React
 
@@ -18,3 +15,19 @@
 
 ## Data Structure and Algorithm
 * [Data Structure and Algorithm](https://neetcode.io/)
+
+## Python
+* [Cheatsheet](https://www.pythoncheatsheet.org/)
+* [Full Stack Python](https://www.fullstackpython.com/)
+
+## Coding Platform
+* [Coderbyte](https://coderbyte.com/)
+
+## Misc
+
+### API
+
+* [13 REST API interview questions you need to know](https://www.educative.io/blog/rest-api-interview-questions)
+
+### Cheatsheet
+* [Cheatsheet](https://www.thinkful.com/blog/web-developer-cheat-sheet/)
