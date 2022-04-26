@@ -42,4 +42,4 @@
 * [13 REST API interview questions you need to know](https://www.educative.io/blog/rest-api-interview-questions)
 
 ### Cheatsheet
-* [Cheatsheet](https://www.thinkful.com/blog/web-developer-cheat-sheet/)
+* [Frontend + Backend Cheatsheet](https://www.thinkful.com/blog/web-developer-cheat-sheet/)
