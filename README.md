@@ -58,6 +58,35 @@ Next 5 [Worth practicing]:-
 
 PS: Always understand the difference between Object Oriented Design and Distributed System Design.
 ```
+```
+Concepts to know for interviews:
+
+1. Scalability - Vertical vs Horizontal scaling
+2. Consistency - Strong vs Eventual, CAP theorem
+3. Load Balancers
+4. Monolith vs Microservices
+5. SQL or NoSQL
+6. Caching
+7. Durability - Checksums, validations, hashes etc
+8. Shards and Replications
+9. Client - Server architecture
+10. API, throttling, throughput and latency
+11. Asynchronous communication - Queuing, Notifications, Subscriptions
+12. Storage - Data (rows) vs File storage
+
+Products to know:
+
+1. AWS - Dynamo DB, S3, SNS/SQS, Aurora, Athena
+2. Cassandra
+3. Apache web server
+4. Nginx
+5. Redis
+6. Docker
+7. MemCache
+8. MD5, CRC32, SHA256
+
+If you know above, your distributed system design is almost complete. Just use them at appropriate places and assemble to build any new system asked in interviews.
+```
 
 ## People
 * [vasanthk](https://gist.github.com/vasanthk)
