@@ -31,6 +31,7 @@
 * [Codekale](https://www.codekarle.com/)
 * [System Design Tutorial](https://systemdesigntutorial.com/)
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design)
+* [http://highscalability](http://highscalability.com/start-here/)
 ```
 Top 5 [Must know]:-
 
