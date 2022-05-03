@@ -4,6 +4,7 @@
 - [Python](#python)
 - [Coding Platform](#coding-platform)
 - [System Design](#system-design)
+- [Git](#git)
 - [People](#people)
 - [Misc](#misc)
   - [API](#api)
@@ -18,6 +19,7 @@
 
 ## Data Structure and Algorithm
 * [Data Structure and Algorithm](https://neetcode.io/)
+* [PriyankaKhire-DSA Python](https://github.com/PriyankaKhire/ProgrammingPracticePython)
 
 ## Python
 * [Cheatsheet](https://www.pythoncheatsheet.org/)
@@ -28,10 +30,12 @@
 
 ## System Design
 * [vasanthk- System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+* [PriyankaKhire-Python+SystemDesign](https://github.com/PriyankaKhire/ProgrammingPracticePython)
+* [PriyankaKhire-SystemDesign](https://github.com/PriyankaKhire/SystemDesign)
 * [Codekale](https://www.codekarle.com/)
 * [System Design Tutorial](https://systemdesigntutorial.com/)
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design)
-* [http://highscalability](http://highscalability.com/start-here/)
+* [High Scalability](http://highscalability.com/start-here/)
 ```
 Top 5 [Must know]:-
 
@@ -89,8 +93,12 @@ Products to know:
 If you know above, your distributed system design is almost complete. Just use them at appropriate places and assemble to build any new system asked in interviews.
 ```
 
+## Git
+* [Git commands](https://github.com/PriyankaKhire/LearningGitCommands)
+
 ## People
 * [vasanthk](https://gist.github.com/vasanthk)
+* [PriyankaKhire](https://github.com/PriyankaKhire)
 
 ## Misc
 
