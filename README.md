@@ -119,10 +119,9 @@ If you know above, your distributed system design is almost complete. Just use t
 ### Resources
 ```
 Coding
-- Leetcode： http://leetcode.com
-- Neetcode： http://neetcode.io
-- CCIC：
-http://amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/
+- [Leetcode:](http://leetcode.com)
+- [Neetcode:](http://neetcode.io)
+- [Cracking the coding interview book](http://amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 
 SDI
 - System Design Interview book 1, 2 by Alex Xu: 
