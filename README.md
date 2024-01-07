@@ -115,3 +115,39 @@ If you know above, your distributed system design is almost complete. Just use t
 
 ### Cheatsheet
 * [Frontend + Backend Cheatsheet](https://www.thinkful.com/blog/web-developer-cheat-sheet/)
+
+### Resources
+```
+Coding
+- Leetcode： http://leetcode.com
+- Neetcode： http://neetcode.io
+- CCIC：
+http://amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/
+
+SDI
+- System Design Interview book 1, 2 by Alex Xu: 
+Vol1: http://amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/
+Vol2: http://amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119
+- Grokking the system design by Design Guru： http://designgurus.io
+- Design Data-intensive Application: http://amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+
+Behavioral interview
+- Tech Interview Handbook: http://techinterviewhandbook.org
+- A Life Engineered (YT): http://youtube.com/@ALifeEngineered
+- STAR method: http://indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
+
+OOD Interview
+- Interviewready: http://interviewready.io
+- OOD by educative: http://educative.io
+- Head First Design Patterns Book: http://amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124
+
+Mock interviews
+- Interviewingio: http://interviewing.io
+- Pramp: http://pramp.com
+- Meetapro: http://meetapro.com
+
+Apply for Jobs
+- Linkedin: http://linkedin.com
+- Monster: http://monster.com
+- Indeed: http://indeed.com
+```
