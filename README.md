@@ -35,6 +35,7 @@
   * [Helpful list of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
 
 ## System Design
+* [ByteByteGo- system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 * [vasanthk- System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 * [PriyankaKhire-Python+SystemDesign](https://github.com/PriyankaKhire/ProgrammingPracticePython)
 * [PriyankaKhire-SystemDesign](https://github.com/PriyankaKhire/SystemDesign)
