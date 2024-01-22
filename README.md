@@ -44,6 +44,7 @@
 * [System Design Tutorial](https://systemdesigntutorial.com/)
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design)
 * [High Scalability](http://highscalability.com/start-here/)
+* [Saral Saxena Linkedin](https://www.linkedin.com/in/saralsaxena/recent-activity/articles/)
 ```
 Top 5 [Must know]:-
 
